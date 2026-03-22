@@ -1,6 +1,5 @@
 # cronet-go
 
-
 [![Reference](https://pkg.go.dev/badge/github.com/sagernet/cronet-go.svg)](https://pkg.go.dev/github.com/sagernet/cronet-go)
 
 Go bindings for [naiveproxy](https://github.com/klzgrad/naiveproxy).
